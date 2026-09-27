@@ -1,0 +1,14 @@
+# Build artifacts (regenerate with build_n1neslim.sh)
+out/
+
+# Compiled classes (jar is committed; rebuild with build_n1neslim.sh menu opt 6)
+tools/n1neslim-peppermint/build/
+
+# OS junk
+.DS_Store
+Thumbs.db
+node_modules/
+.next/
+dist/
+build/
+*.log
